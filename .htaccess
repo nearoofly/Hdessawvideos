@@ -1,1 +1,2 @@
-
+RewriteEngine on
+RewriteRule ^ads\.txt$ https://wharkly47.github.io [L,R=301]
